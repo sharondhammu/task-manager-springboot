@@ -45,3 +45,23 @@ Protected APIs require JWT Authentication.
 ### Author
 Sharon Dhammu
 
+
+
+
+## Screenshots
+
+### Swagger UI
+
+![Swagger UI](screenshots/swagger-overview.png)
+
+### Login Success
+![Login Success](screenshots/login-success.png)
+
+### Create Task
+![Create Task](screenshots/create-task.png)
+
+### Get Tasks
+![Get Tasks](screenshots/get-tasks.png)
+
+### Update Task
+![Update Task](screenshots/update-task.png)
